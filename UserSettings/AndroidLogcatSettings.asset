@@ -1,0 +1,107 @@
+{
+    "m_SelectedDeviceId": "SCNNZ5WOFMS46TPF",
+    "m_SelectedPackage": {
+        "deviceId": "SCNNZ5WOFMS46TPF",
+        "name": "com.DeltaSoft.DeltaSoftProject",
+        "processId": 17072,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.oppo.launcher",
+            "processId": 2369,
+            "exited": false
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 648,
+            "exited": true
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 9166,
+            "exited": true
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 18708,
+            "exited": true
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 21503,
+            "exited": true
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 15222,
+            "exited": true
+        },
+        {
+            "deviceId": "SCNNZ5WOFMS46TPF",
+            "name": "com.DeltaSoft.DeltaSoftProject",
+            "processId": 17072,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": true,
+    "m_SymbolPaths": []
+}

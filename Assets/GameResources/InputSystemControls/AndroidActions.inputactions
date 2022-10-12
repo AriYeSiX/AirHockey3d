@@ -1,0 +1,46 @@
+{
+    "name": "AndroidActions",
+    "maps": [
+        {
+            "name": "AndroidMap",
+            "id": "f027fc9d-30b5-4032-95c6-c372f98fc93b",
+            "actions": [
+                {
+                    "name": "LeftStick",
+                    "type": "Value",
+                    "id": "5912ac39-7417-4395-8a3a-36d4f4cd5dcc",
+                    "expectedControlType": "Vector2",
+                    "processors": "StickDeadzone",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "38d7880c-377c-495d-ae44-b760edf39c68",
+                    "path": "<AndroidJoystick>/stick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "AndroidSheme",
+                    "action": "LeftStick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "AndroidSheme",
+            "bindingGroup": "AndroidSheme",
+            "devices": [
+                {
+                    "devicePath": "<AndroidJoystick>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
